@@ -24,13 +24,10 @@ Curious? Feel free to explore – no jump scares, promised. 😜
 
 ## 🔭 Current Projects
 
-- 🌐 https://www.evarioocms.de
+- 🌐 https://cms.dev.maralex.xyz/
   → A custom CMS / system I'm actively developing and maintaining.
-- 🌐 https://www.averio.xyz
-  → A Community discord bot with multiple commands and functions
 - 🌐 https://www.maralex.xyz
   → This is my own website.
-
 
 ---
 
@@ -44,9 +41,9 @@ Kind of like naming a cake: "Cake That Contains Cake". Typical developer humor. 
 
 ## 📊 GitHub Stats
 
-![pixelpatron90's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelpatron90&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maralexofficial&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelpatron90&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maralexofficial&layout=compact&theme=radical)
 
 ---
 
