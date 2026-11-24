@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.pixelpatron.eu" target="_blank">
-    <img src="https://cdn.maralexno.de/maralex/media/logo/logo-dark.svg" width="493" />
+    <img src="https://cdn.maralexno.de/maralex/media/logo/logo-github.svg" width="493" />
   </a>
 </p>
 
