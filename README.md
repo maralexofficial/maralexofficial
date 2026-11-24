@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.pixelpatron.eu" target="_blank">
+  <a href="https://www.maralex.xyz" target="_blank">
     <img src="https://cdn.maralexno.de/maralex/media/logo/logo-dark-github.svg" width="493" />
   </a>
 </p>
