@@ -24,9 +24,9 @@ Curious? Feel free to explore – no jump scares, promised. 😜
 
 ## 🔭 Current Projects
 
-- 🌐 https://cms.dev.maralex.xyz/
+- 🌐 https://s.maralex.xyz/fAhkM
   → A custom CMS / system I'm actively developing and maintaining.
-- 🌐 https://www.maralex.xyz
+- 🌐 https://s.maralex.xyz/KKFD8
   → This is my own website.
 
 ---
