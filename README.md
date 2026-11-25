@@ -51,11 +51,11 @@ Kind of like naming a cake: "Cake That Contains Cake". Typical developer humor. 
 
 For more information about me or my projects, feel free to visit my website:
 
-- https://www.maralex.xyz
+- https://s.maralex.xyz/KKFD8
 
-OR my docker Repoaitory
+OR my docker Repository
 
-- https://hub.docker.com/repositories/maralexofficial
+- https://s.maralex.xyz/tCtXI
 
 ---
 
